@@ -13,5 +13,8 @@ Shuheng Liao, Ashkan Golgoon
 </p>
 
 See the published manuscript here:
+Efficient GPU-accelerated thermomechanical solver for residual stress prediction in additive manufacturing
+Shuheng Liao, Ashkan Golgoon, Mojtaba Mozaffar & Jian Cao 
+Computational Mechanics (2023)Cite this article
 
 https://link.springer.com/article/10.1007/s00466-023-02273-3
