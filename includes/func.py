@@ -1,3 +1,16 @@
+/**
+* A utility class that gives applets the ability to detect proxy host settings.
+* This was adapted from a post from Chris Forster on 20030227 to a Sun Java
+* forum here:
+* http://forum.java.sun.com/thread.jspa?threadID=364342&tstart=120
+[…]
+*/
+
+
+
+
+
+
 import cupy as cp
 import cupyx.scipy.sparse as cusparse
 
