@@ -1,6 +1,6 @@
 ###############
 # The functions "elastic_stiff_matrix", "constitutive_problem", and "transformation", 
-# Were adapted from the paper "Efficient and flexible MATLAB implementation of 2D and 3D elastoplastic problems",
+# were adapted in part from the paper "Efficient and flexible MATLAB implementation of 2D and 3D elastoplastic problems",
 # by Martin Cermak (UGN Ostrava), Stanislav Sysala (UGN Ostrava), Jan Valdman (UTIA Praha)
 # Applied Mathematics and Computation 355, (2019) pp. 595-614, DOI: 10.1016/j.amc.2019.02.054
 # https://arxiv.org/pdf/1805.04155.pdf
