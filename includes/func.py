@@ -6,7 +6,20 @@
 # https://arxiv.org/pdf/1805.04155.pdf
 # https://github.com/matlabfem/matlab_fem_elastoplasticity
 ##############
-
+# In this project we utilized CuPy as the main GPU acceleration strategy python package. For more info about CuPy please refer to:
+# Ryosuke Okuta, Yuya Unno, Daisuke Nishino, Shohei Hido and Crissman Loomis. 
+# "CuPy: A NumPy-Compatible Library for NVIDIA GPU Calculations." 
+# "Proceedings of Workshop on Machine Learning Systems (LearningSys) in 
+# The Thirty-first Annual Conference on Neural Information Processing Systems (NIPS), (2017)."
+# http://learningsys.org/nips17/assets/papers/paper_16.pdf
+# @inproceedings{cupy_learningsys2017,
+#   author       = "Okuta, Ryosuke and Unno, Yuya and Nishino, Daisuke and Hido, Shohei and Loomis, Crissman",
+#   title        = "CuPy: A NumPy-Compatible Library for NVIDIA GPU Calculations",
+#   booktitle    = "Proceedings of Workshop on Machine Learning Systems (LearningSys) in The Thirty-first Annual Conference on Neural Information Processing Systems (NIPS)",
+#   year         = "2017",
+#   url          = "http://learningsys.org/nips17/assets/papers/paper_16.pdf"
+# }
+##############
 
 
 
