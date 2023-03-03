@@ -1,10 +1,11 @@
-/**
-* A utility class that gives applets the ability to detect proxy host settings.
-* This was adapted from a post from Chris Forster on 20030227 to a Sun Java
-* forum here:
-* http://forum.java.sun.com/thread.jspa?threadID=364342&tstart=120
-[…]
-*/
+###############
+# The functions "elastic_stiff_matrix", "constitutive_problem", and "transformation", 
+# Were adapted from the paper "Efficient and flexible MATLAB implementation of 2D and 3D elastoplastic problems",
+# by Martin Cermak (UGN Ostrava), Stanislav Sysala (UGN Ostrava), Jan Valdman (UTIA Praha)
+# Applied Mathematics and Computation 355, (2019) pp. 595-614, DOI: 10.1016/j.amc.2019.02.054
+# https://arxiv.org/pdf/1805.04155.pdf
+# https://github.com/matlabfem/matlab_fem_elastoplasticity
+##############
 
 
 
